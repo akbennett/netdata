@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM opensourcefoundries/minideb:jessie
 
 ADD git-tag /git-tag
 
